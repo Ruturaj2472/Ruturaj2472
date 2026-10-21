@@ -1,3 +1,5 @@
+<p align="center"><img src="./header.svg" alt="Ruturaj Pangavhane, AI Engineer" width="100%"></p>
+
 # Hey, I'm Ruturaj 👋
 
 **AI Engineer** who turns LLMs into products people actually use.
