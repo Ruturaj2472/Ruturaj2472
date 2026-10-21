@@ -3,7 +3,7 @@
 # Hey, I'm Ruturaj 👋
 
 **AI Engineer** who turns LLMs into products people actually use.
-About 2 years building AI and data systems in fintech. Finishing my MS in Information Systems at Northeastern (May '26) and open to **AI Engineer and Forward Deployed Engineer** roles.
+About 2 years building AI and data systems in fintech. MS in Information Systems from Northeastern (May '26), and open to **AI Engineer and Forward Deployed Engineer** roles.
 
 ### 🚀 What I build
 - **RAG systems and AI assistants**: grounding LLMs in real-world data
