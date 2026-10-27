@@ -19,7 +19,8 @@ About 2 years building AI and data systems in fintech. MS in Information Systems
 
 ### 🛠️ Toolbox
 - **Languages:** Python, SQL, JavaScript
-- **AI and LLM:** LangChain, LangGraph, CrewAI, OpenAI API, Hugging Face, LoRA/PEFT, RAG, DeepEval
+- **AI and LLM:** LangChain, LangGraph, CrewAI, OpenAI API, Hugging Face, LoRA/PEFT, RAG
+- **Evaluation and observability:** DeepEval, RAGAS, MLflow tracing, LLM-as-a-judge, execution-accuracy evals for text-to-SQL, eval-gated CI
 - **Retrieval:** Qdrant, ChromaDB, FAISS, BM25, cross-encoder reranking
 - **Backend:** FastAPI, Pydantic, React, SQLite
 - **Cloud and DevOps:** Docker, AWS EC2, GitHub Actions, Azure Data Factory, Azure Synapse
